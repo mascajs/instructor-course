@@ -1,0 +1,7 @@
+interface:
+  display_name: "수업 교안 제작"
+  short_description: "확정 원고로 PPTX와 HTML 교안을 제작하고 검수합니다"
+  default_prompt: "$lesson-deck-builder를 사용해 수업계획안이나 교안 원고, 디자인 파일, 샘플 PPT로 검증된 PPTX 또는 HTML 교안을 제작해줘."
+
+policy:
+  allow_implicit_invocation: true
